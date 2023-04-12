@@ -1,0 +1,16 @@
+.modal {
+    background-image: linear-gradient(to top right, var(--primary-color), var(--secondary-color));
+    height: 100vh;
+}
+
+.modal__body {
+    display: flex;
+    justify-content: space-between;
+}
+
+.auth-form--left {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+

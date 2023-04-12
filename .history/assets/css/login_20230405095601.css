@@ -1,0 +1,9 @@
+.modal__body {
+    display: flex;
+    justify-content: space-between;
+}
+
+.auth-form--left {
+    margin: auto a;
+}
+

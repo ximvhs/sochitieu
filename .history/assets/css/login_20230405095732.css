@@ -1,0 +1,10 @@
+.modal__body {
+    display: flex;
+    justify-content: space-between;
+}
+
+.auth-form--left {
+    display: flex;
+    flex-wrap: ;
+}
+
